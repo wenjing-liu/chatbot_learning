@@ -1,2 +1,4 @@
+Click==7.0
 nltk==3.4.5
+PyNLPIR==0.6.0
 six==1.14.0
